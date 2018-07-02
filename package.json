@@ -1,4 +1,8 @@
 {
+  "name": "discord-spam-bot",
+  "scripts": {
+        "start": "node app.js"
+  },
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
