@@ -155,5 +155,5 @@ client.on("message", async message => {
 
 timeout = config.threshold;
 console.log("Logging in...");
-client.login(config.token);
+client.login(process.env.token);
            
